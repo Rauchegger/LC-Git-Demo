@@ -1,6 +1,6 @@
 # Openrefine-Skript zur Datentransformation
 
-erstell von rauchegger
+erstellt von Rauchegger
 
 enthält Rohdaten und die Transformation mittels OpenRefine-Konfig (json)
 usw usw.
